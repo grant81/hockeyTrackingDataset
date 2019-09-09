@@ -1,0 +1,125 @@
+<annotation>
+    <folder></folder>
+    <filename>frame_002520</filename>
+    <path></path>
+    <source>
+        <database>Unknown</database>
+    </source>
+    <size>
+        <width>1280</width>
+        <height>720</height>
+        <depth>3</depth>
+    </size>
+    <segmented>0</segmented>
+    <object>
+        <name>player</name>
+        <pose>Unspecified</pose>
+        <truncated>0</truncated>
+        <difficult>0</difficult>
+        <bndbox>
+            <xmin>1225.9201171875</xmin>
+            <ymin>443.9673828125</ymin>
+            <xmax>1280.0</xmax>
+            <ymax>541.5867187500011</ymax>
+        </bndbox>
+    </object>    <object>
+        <name>player</name>
+        <pose>Unspecified</pose>
+        <truncated>0</truncated>
+        <difficult>0</difficult>
+        <bndbox>
+            <xmin>1123.513671875</xmin>
+            <ymin>166.0322265625</ymin>
+            <xmax>1166.6666666666672</xmax>
+            <ymax>248.10000000000036</ymax>
+        </bndbox>
+    </object>    <object>
+        <name>player</name>
+        <pose>Unspecified</pose>
+        <truncated>0</truncated>
+        <difficult>0</difficult>
+        <bndbox>
+            <xmin>1206.6057031250002</xmin>
+            <ymin>298.729296875</ymin>
+            <xmax>1264.9983593750003</xmax>
+            <ymax>387.4251562500009</ymax>
+        </bndbox>
+    </object>    <object>
+        <name>player</name>
+        <pose>Unspecified</pose>
+        <truncated>0</truncated>
+        <difficult>0</difficult>
+        <bndbox>
+            <xmin>815.1349609375</xmin>
+            <ymin>236.923046875</ymin>
+            <xmax>902.1369140625</xmax>
+            <ymax>333.18730468750147</ymax>
+        </bndbox>
+    </object>    <object>
+        <name>ref</name>
+        <pose>Unspecified</pose>
+        <truncated>0</truncated>
+        <difficult>0</difficult>
+        <bndbox>
+            <xmin>959.5662109375</xmin>
+            <ymin>102.9482421875</ymin>
+            <xmax>1009.9900390625</xmax>
+            <ymax>191.90000000000146</ymax>
+        </bndbox>
+    </object>    <object>
+        <name>keeper</name>
+        <pose>Unspecified</pose>
+        <truncated>0</truncated>
+        <difficult>0</difficult>
+        <bndbox>
+            <xmin>1082.8873046875</xmin>
+            <ymin>176.462109375</ymin>
+            <xmax>1154.775</xmax>
+            <ymax>289.04277343750147</ymax>
+        </bndbox>
+    </object>    <object>
+        <name>player</name>
+        <pose>Unspecified</pose>
+        <truncated>0</truncated>
+        <difficult>0</difficult>
+        <bndbox>
+            <xmin>1227.9076171875</xmin>
+            <ymin>350.246875</ymin>
+            <xmax>1280.0</xmax>
+            <ymax>438.4200000000004</ymax>
+        </bndbox>
+    </object>    <object>
+        <name>player</name>
+        <pose>Unspecified</pose>
+        <truncated>0</truncated>
+        <difficult>0</difficult>
+        <bndbox>
+            <xmin>936.68671875</xmin>
+            <ymin>491.443359375</ymin>
+            <xmax>1039.5</xmax>
+            <ymax>608.2200000000005</ymax>
+        </bndbox>
+    </object>    <object>
+        <name>player</name>
+        <pose>Unspecified</pose>
+        <truncated>0</truncated>
+        <difficult>0</difficult>
+        <bndbox>
+            <xmin>453.2421875</xmin>
+            <ymin>174.08671875</ymin>
+            <xmax>518.3600000000009</xmax>
+            <ymax>245.83445312500118</ymax>
+        </bndbox>
+    </object>    <object>
+        <name>player</name>
+        <pose>Unspecified</pose>
+        <truncated>0</truncated>
+        <difficult>0</difficult>
+        <bndbox>
+            <xmin>356.6091796875</xmin>
+            <ymin>584.3578125</ymin>
+            <xmax>459.39003906250144</xmax>
+            <ymax>719.3578125</ymax>
+        </bndbox>
+    </object>
+</annotation>
