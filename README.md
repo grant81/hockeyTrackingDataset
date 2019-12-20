@@ -1,4 +1,6 @@
 ## hockeyTrackingDataset
+**some data and other stuff to get you started**
+[there it is](https://drive.google.com/open?id=1hhq8LhzRbuChoj7GAsd5HulqqU8D_kP9)
 **steps to contribute to this DB**
 1. clone this repo
 2. get the annotation tool CVAT from [here](https://github.com/opencv/cvat)
